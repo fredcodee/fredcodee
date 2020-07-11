@@ -1,6 +1,11 @@
 ![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594448416/githubreadme/web-text-1591060_1_hiucrv.jpg)
 ### Wilfred Chukwu (Fredcode) 👋
 
+I am a self-thought developer and i have been developing since 2018 and am always looking to expand my skill-set and grow [@fredcodee](https://github.com/fredcodee)
+aside from coding i love sports, reading, spending time with my friends and family and regulary active on [My Twitter](https://twitter.com/fredcode_)
+
+<!-- <a title="Portfolio, saurabhdaware.in" href="https://saurabhdaware.in"><img alt="My portfolio, saurabhdaware.in" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="DEV.to Articles" href="https://dev.to/saurabhdaware"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/saurabhcodes"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a> -->
+
 <!--
 **fredcodee/fredcodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
