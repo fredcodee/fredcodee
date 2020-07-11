@@ -1,5 +1,4 @@
-![A cover image that says "Hi I'm Saurabh" in the center. On left, there's a cartoon character representing saurabh who is holding sunflower in his one hand]
-(https://res.cloudinary.com/drowlz6be/image/upload/v1594447946/web-text-1591060_1_1_latfif.jpg)
+![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594447946/web-text-1591060_1_1_latfif.jpg)
 ### Hi there 👋
 
 <!--
