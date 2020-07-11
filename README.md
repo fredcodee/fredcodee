@@ -1,5 +1,5 @@
-![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594447946/web-text-1591060_1_1_latfif.jpg)
-### Hi there 👋
+![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594448416/githubreadme/web-text-1591060_1_hiucrv.jpg)
+### Wilfred Chukwu (Fredcode) 👋
 
 <!--
 **fredcodee/fredcodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
