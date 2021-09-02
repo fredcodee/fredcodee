@@ -1,8 +1,7 @@
 ![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594448416/githubreadme/web-text-1591060_1_hiucrv.jpg)
 ### Wilfred Chukwu AKA [Fredcode] 👋
 
-I am a self-taught developer and i build web applications using python. I am always looking to expand my skill-set and grow [@fredcodee](https://github.com/fredcodee)
-aside from coding i love sports, reading, spending time with my friends and family. I am regulary active on [My Twitter](https://twitter.com/fredcode_)
+Creator, I am regulary active on [My Twitter](https://twitter.com/fredcode_)
 
 ### Connect with me:
 
