@@ -14,6 +14,6 @@ Creator, I am regulary active on [My Twitter](https://twitter.com/fredcode_)
 
 [website]: https://fredcodee.github.io/portfolio/
 [twitter]: https://twitter.com/fredcode_
-[Blog]: https://dev.to/fredcode
+[Blog]: https://thefredcode.com/blog
 [linkedin]: https://www.linkedin.com/in/wilfred-chukwu-891830174/
 
