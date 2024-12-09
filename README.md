@@ -1,7 +1,7 @@
 ![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594448416/githubreadme/web-text-1591060_1_hiucrv.jpg)
 ### Wilfred Chukwu AKA [Fredcode] 👋
 
-Creator, I am regulary active on [My Twitter](https://twitter.com/fredcode_)
+Software engineer
 
 ### Connect with me:
 
@@ -13,7 +13,6 @@ Creator, I am regulary active on [My Twitter](https://twitter.com/fredcode_)
 <br />
 
 [website]: https://fredcodee.github.io/portfolio/
-[twitter]: https://twitter.com/fredcode_
 [Blog]: https://thefredcode.com/blog
 [linkedin]: https://www.linkedin.com/in/wilfred-chukwu-891830174/
 
