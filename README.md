@@ -4,14 +4,7 @@
 Software engineer
 
 ### Connect with me:
-
-[<img align="left" alt="fredcode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="fredcode | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dev.to/fredcode" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Blog]
-
-<br />
-
-[website]: https://thefredcode.com
-[Blog]: https://thefredcode.com/blog
-[linkedin]: https://www.linkedin.com/in/wilfred-chukwu-891830174/
+Portfolio : https://thefredcode.com
+Blog: https://thefredcode.com/blog
+linkedin: https://www.linkedin.com/in/wilfred-chukwu-891830174/
 
