@@ -3,8 +3,4 @@
 
 Software engineer
 
-### Connect with me:
-Portfolio : https://thefredcode.com <br>
-Blog: https://thefredcode.com/blog <br>
-linkedin: https://www.linkedin.com/in/wilfred-chukwu-891830174/ <br>
 
