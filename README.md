@@ -1,6 +1,6 @@
 ![A cover image that says "Hi I'm Wilfred" in the center](https://res.cloudinary.com/drowlz6be/image/upload/v1594448416/githubreadme/web-text-1591060_1_hiucrv.jpg)
 ### Wilfred Chukwu AKA [Fredcode] 👋
 
-Software engineer
+Fullstack Developer & Software engineer
 
 
