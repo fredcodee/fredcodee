@@ -9,14 +9,6 @@
 
 I build software that scales, not only in traffic and codebase size, but in the value it keeps delivering as both grow. For 8+ years I've worked with remote teams across the US, Europe and Asia, owning products from architecture and data design through deployment, SEO and revenue.
 
-## Highlights
-
-- **Lead engineer on OnlySearch**, a creator discovery and search platform serving **100k+ visits a day**
-- Built its self-serve **advertising platform** from scratch, including crypto payments, generating **$50K+ in profit**
-- Took OnlySearch to **#2 on Google** for a highly competitive keyword, and **Arkvon** to **#1** for its target keyword
-- Cut a hot database lookup from 57ms to 0.06ms (**~900× faster**) and built ingestion that has processed **700k+ records** unattended
-- Remote since 2017, with teams and clients in **5 countries**
-
 ## Tech stack
 
 | Area | Tools |
@@ -28,31 +20,5 @@ I build software that scales, not only in traffic and codebase size, but in the 
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,git,selenium" alt="Docker, Nginx, Linux, AWS, Git, Selenium" /> |
 
 Also: system design, API design, database architecture, authentication, performance optimization, payments (Stripe, crypto), SEO.
-
-## Experience
-
-| Company | Role | Period |
-| --- | --- | --- |
-| **Tasty Agency** · US, remote | Senior Software Engineer | Feb&nbsp;2025&nbsp;–&#8288;&nbsp;present |
-| **Invix Technology** · China, remote | Software Engineer | Oct&nbsp;2022&nbsp;–&#8288;&nbsp;Nov&nbsp;2024 |
-| **TargetHunt** · Belgium, remote | Software Engineer | Jan&nbsp;2019&nbsp;–&#8288;&nbsp;Aug&nbsp;2022 |
-| **Freelance** · US, Canada, Germany | Backend Developer | 2017&nbsp;–&#8288;&nbsp;Jan&nbsp;2019 |
-
-## Featured work
-
-Both products are live in production with real users.
-
-| Product | What it is | |
-| --- | --- | --- |
-| **OnlySearch** | Creator discovery and search platform serving 100k+ visits a day. I lead engineering and built its ad platform. | [Case&nbsp;study&nbsp;→](https://iamfredcode.com/projects/onlysearch) |
-| **Arkvon** | SaaS for building, tracking and scaling affiliate programs, built end to end. Ranks #1 on Google. | [Case&nbsp;study&nbsp;→](https://iamfredcode.com/projects/arkvon) |
-
-## Currently
-
-- Senior Software Engineer at Tasty Agency, leading engineering on OnlySearch
-- Building Arkvon on the side
-- Open to interesting conversations, including senior and lead engineering roles, full time or contract
-
----
 
 More at **[iamfredcode.com](https://iamfredcode.com)**
