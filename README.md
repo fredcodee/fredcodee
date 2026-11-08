@@ -1,6 +1,6 @@
 # Hi, I'm Wilfred Chukwu 👋
 
-**Senior Software Engineer** · 8+ years shipping production software remotely · Based in the Philippines (UTC+8)
+**Senior Product Engineer** · 8+ years shipping production software remotely · Based in the Philippines (UTC+8)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamfredcode.com-d4a373?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamfredcode.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfred%20Chukwu-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zN1Y5aDMuNDF2MS41NmguMDVjLjQ3LS45IDEuNjMtMS44NSAzLjM2LTEuODUgMy42IDAgNC4yNiAyLjM3IDQuMjYgNS40NXY2LjI5Wk01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyWk03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1Wk0yMi4yMyAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NmMuOTggMCAxLjc3LS43NyAxLjc3LTEuNzNWMS43M0MyNCAuNzcgMjMuMjEgMCAyMi4yMyAwWiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/wilfred-chukwu-891830174/)
