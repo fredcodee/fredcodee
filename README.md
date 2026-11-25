@@ -8,7 +8,7 @@
 [![CV](https://img.shields.io/badge/CV-Download-131210?style=for-the-badge)](https://iamfredcode.com/Wilfred_Chukwu_Resume.pdf)
 
 I build software that scales, not only in traffic and codebase size, but in the value it keeps delivering as both grow. For 8+ years I've worked with remote teams across the US, Europe and Asia, owning products from architecture and data design through deployment, SEO and revenue.
-WHAT DO I DO NOW ? . I build with Claude Code and AI agents every day
+WHAT DO I DO NOW ? I build with Claude Code and AI agents every day
 
 ## Tech stack
 
